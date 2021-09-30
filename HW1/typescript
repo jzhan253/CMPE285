@@ -1,0 +1,48 @@
+Script started on Thu Sep 30 12:30:04 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                       [0m[27m[24m[Jjzhang@JinfandeAir cmpe285 % [K[?2004hppython3 hw1.py[?2004l
+Compute Your Profit:
+
+Ticket Symbol:
+ADBE
+
+Allotment:
+100
+
+Final Share Price:
+110
+
+Sell Commission:
+15
+
+Initial Share Price:
+25
+
+Buy Commission:
+10
+
+Capital Gain Tax Rate(%):
+15
+
+PROFIT REPORT:
+Proceeds
+$11,000.00
+
+Cost:
+$3,796.25
+
+Cost details:
+Total Purchase Price
+100 × $25 = 2,500.00
+Buy Commission: = 10.00
+Sell Commission: = 15.00
+Tax on Capital Gain = 15% of $8,475.00 = 1,271.25
+
+Net Profit
+$7,203.75
+
+Return on Investment
+189.76%
+
+To break even, you should have a final share price of
+$25.25
+[1m[7m%[27m[1m[0m                                                                                                                                                       [0m[27m[24m[Jjzhang@JinfandeAir cmpe285 % [K[?2004h
