@@ -1,6 +1,5 @@
 import yfinance as yf
 import datetime
-import socket
 
 def main():
     while(True):
