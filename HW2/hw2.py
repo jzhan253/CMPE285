@@ -4,6 +4,8 @@ import datetime
 def main():
     while(True):
         symbol = input("Input:\nPlease enter a symbol:\n")
+        if symbol == 'q' or symbol == 'Q' or symbol == 'quit' or symbol == 'Quit':
+            break
         print("Output:")
         time = datetime.datetime.now()
         print(time.strftime('%a') + ' ' + 
@@ -18,7 +20,7 @@ def main():
         except:
             print('Connection with internal financial API has failed, check your internet connection.')
             break
-        if info['regularMarketPrice'] == None:
+        if info == None or len(info) == 0 or info['regularMarketPrice'] == None:
             print('Invalid symbol! Please check for company stock symbol before enter!')
             continue
         today = company.history(period='1d')

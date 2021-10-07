@@ -1,0 +1,33 @@
+Script started on Wed Oct  6 19:44:18 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jjzhang@JinfandeAir hw2 % [K[?2004hppython3 hw2.py[?2004l
+Input:
+Please enter a symbol:
+ADBE
+Output:
+Wed Oct 06 19:44:31 2021
+Adobe Inc.(ADBE)
+570.31 +9.07 (+1.62%)
+Input:
+Please enter a symbol:
+GOOGL
+Output:
+Wed Oct 06 19:44:39 2021
+Alphabet Inc.(GOOGL)
+2751.3 +56.30 (+2.09%)
+Input:
+Please enter a symbol:
+FB
+Output:
+Wed Oct 06 19:44:44 2021
+Facebook, Inc.(FB)
+333.64 +3.90 (+1.18%)
+Input:
+Please enter a symbol:
+jlkjsdk
+Output:
+Wed Oct 06 19:44:48 2021
+Invalid symbol! Please check for company stock symbol before enter!
+Input:
+Please enter a symbol:
+q
+[1m[7m%[27m[1m[0m                                                                                                                                                                        [0m[27m[24m[Jjzhang@JinfandeAir hw2 % [K[?2004h
